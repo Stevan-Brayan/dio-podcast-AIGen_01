@@ -1,12 +1,10 @@
-# DIO - Trilha Java Básico
+# Desafio - Criando um Podcast com IAs Generativas  
 
-## Autor
-
+## Autor:
 🔸[wprotheus](https://github.com/wprotheus)
-
+## Modificado por:
+🔸[Stevan Brayan](https://github.com/Stevan-Brayan)
 ---
-
-## Desafio - Criando um Podcast com IAs Generativas  
 
 Atividade executada conforme vídeos do [Desafio](https://web.dio.me/lab/criando-um-podcast-com-ias/learning/3f37b3c7-b680-482e-8994-1644f1045a63) e orientações abaixo.  
 <small><sup>Obs.: O link acima somente é acessado através de uma conta na plataforma DIO.</sup></small>
